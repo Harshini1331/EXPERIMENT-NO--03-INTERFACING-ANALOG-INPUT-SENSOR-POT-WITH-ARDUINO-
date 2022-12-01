@@ -1,6 +1,3 @@
-# EX. NO: 2
-# DATE:
-
 # <p align="center">INTERFACING ANALOG INPUT SENSOR POT WITH ARDUINO</p>
 
 
